@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "neo_ruby"
   spec.version       = NeoRuby::VERSION
   spec.authors       = ["blueplanet"]
-  spec.email         = ["erguolinge@gmail.com"]
+  spec.email         = ["gyo@re-work.io"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Ruby Node and SDK for the NEO blockchain.}
+  spec.description   = spec.summary
+  spec.homepage      = "https://github.com/blueplanet/neo_ruby"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
