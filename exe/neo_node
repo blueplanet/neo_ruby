@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'neo/node'
+
+client = Neo::Node.new
+client.run
