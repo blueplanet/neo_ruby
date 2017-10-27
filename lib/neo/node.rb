@@ -2,7 +2,7 @@ module Neo
   class Node
     def run
       while(true)
-        print 'neo> '
+        print 'NEO > '
         gets
       end
     end
