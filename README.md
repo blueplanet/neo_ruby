@@ -1,4 +1,7 @@
 # neo-ruby
+Ruby Node and SDK for the NEO blockchain.
+
+[![Build Status](https://travis-ci.org/blueplanet/neo_ruby.svg?branch=master)](https://travis-ci.org/blueplanet/neo_ruby) [![Coverage Status](https://coveralls.io/repos/github/blueplanet/neo_ruby/badge.svg?branch=master)](https://coveralls.io/github/blueplanet/neo_ruby?branch=master)
 
 ## TODO
 - [ ] Run a ruby based P2P node
